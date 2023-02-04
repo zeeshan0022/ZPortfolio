@@ -6,10 +6,10 @@
 		"fb_banner_id": "ca-app-pub-9469935768510242/1673379679",
 	        "fb_interstitial_id": "ca-app-pub-9469935768510242/1673379679",
 		"fb_rewarded_id": "ca-app-pub-9469935768510242/1673379679",
-	 	"applovin_banner_id": "ca-app-pub-9469935768510242/1673379679",
-		"applovin_interstitial_id": "ca-app-pub-9469935768510242/1673379679",
-	 	"applovin_rewarded_id": "ca-app-pub-9469935768510242/1673379679",
-		 "adNetwork": "admob"
+	 	"applovin_banner_id": "9aae03db07d03231",
+		"applovin_interstitial_id": "46dff4645ce40a34",
+	 	"applovin_rewarded_id": "6af51e1b21d68666",
+		 "adNetwork": "applovin"
  }	
 	
 }
