@@ -1,7 +1,15 @@
 {
  "ads": {
-		"admob_banner_unit_id": "ca-app-pub-9469935768510242/3838230783",
-		"admob_interstitial_unit_id": "ca-app-pub-9469935768510242/1673379679",
-		"admob_native_unit_id": "ca-app-pub-9469935768510242/8047216333"
-	}	
+		"admob_banner_id": "ca-app-pub-9469935768510242/3838230783",
+		"admob_interstitial_id": "ca-app-pub-9469935768510242/1673379679",
+	 	"admob_rewarded_id": "ca-app-pub-9469935768510242/1673379679",
+		"fb_banner_id": "ca-app-pub-9469935768510242/1673379679",
+	        "fb_interstitial_id": "ca-app-pub-9469935768510242/1673379679",
+		"fb_rewarded_id": "ca-app-pub-9469935768510242/1673379679",
+	 	"applovin_banner_id": "ca-app-pub-9469935768510242/1673379679",
+		"applovin_interstitial_id": "ca-app-pub-9469935768510242/1673379679",
+	 	"applovin_rewarded_id": "ca-app-pub-9469935768510242/1673379679",
+		 "adNetwork": "admob",
+ }	
+	
 }
